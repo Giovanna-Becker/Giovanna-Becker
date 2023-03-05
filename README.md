@@ -1,7 +1,7 @@
 ## Oii, eu sou Giovanna Becker
 
-- 📚 Estou no bootcamp Desenvolvedora Full Stack Java Júnior da Generation
-- 💻 Estou colaborando no Projeto Integrador da Generation
+- 📚 Desenvolvedora Full Stack Java Júnior formada pela Generation
+- 💻 Projeto Integrador da Generation - Social Guide
 - 💛 Procuro ter equilibro entre vida pessoal, profissional e espiritual
 
 <div align="center">
